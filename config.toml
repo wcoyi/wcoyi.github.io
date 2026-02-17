@@ -12,7 +12,7 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     weight = 1
     [languages.en.params]
-      tagline = "Data Analyst. Intermediate Game Dev. Rwieieier Thinker"
+      tagline = "Data Analyst. Intermediate Game Dev. WRRIR SAN Thinker"
       hero_description = "Aspiring Data Analyst with a high motor and resilience."
       hero_location = "Halifax, NS"
       resume_url = "/files/Felipe_Cordero_CV_English_version.pdf"
