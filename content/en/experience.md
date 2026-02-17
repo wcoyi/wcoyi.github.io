@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Experience"
 type: "homepage"
 intro: >-
@@ -71,4 +71,4 @@ positions:
       - "Designed seismic-resistant structures"
       - "Developed custom calculation tools"
       - "Mentored junior engineers"
----
+--- -->

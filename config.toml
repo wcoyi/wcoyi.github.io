@@ -1,7 +1,7 @@
 # Hugo Site Configuration
-baseURL = "https://felipecordero.com"
-languageCode = "en-us"
-title = "Felipe Cordero"
+disableLanguages = ["fr", "es"]
+baseURL = "https://wcoyi.github.io/"
+title = "Will MacIsaac"
 theme = "careercanvas"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -12,64 +12,28 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     weight = 1
     [languages.en.params]
-      tagline = "Engineer. Coder. Problem Solver."
-      hero_description = "Structural Engineer, AI and Full Stack Developer with 14+ years in Architecture, Engineering, and Construction (AEC). Currently building security and compliance solutions for LLM-based AI agents at Fireraven."
-      hero_location = "Montréal, Canada"
+      tagline = "Data Analyst. Intermediate Game Dev. Rwieieier Thinker"
+      hero_description = "Aspiring Data Analyst with a high motor and resilience."
+      hero_location = "Halifax, NS"
       resume_url = "/files/Felipe_Cordero_CV_English_version.pdf"
       collab_tags = [
-        "Full Stack Development",
-        "AI Security & Compliance",
-        "LLM-based Solutions",
-        "PostgreSQL & Data Pipelines",
-        "Agile Scrum"
       ]
-  [languages.es]
-    contentDir = "content/es"
-    languageName = "Español"
-    weight = 2
-    [languages.es.params]
-      tagline = "Ingeniero. Desarrollador de Software. Solucionador de problemas."
-      hero_description = "Ingeniero estructural, IA y desarrollador full stack con más de 14 años en Arquitectura, Ingeniería y Construcción (AEC). Creando soluciones inteligentes y de seguridad para agentes de IA basados en LLM."
-      hero_location = "Montreal, Canadá"
-      resume_url = "/files/Felipe_Cordero_CV_English_version.pdf"
-      collab_tags = [
-        "Soluciones de IA/ML",
-        "Software de Ingeniería",
-        "I+D e Innovación",
-        "Liderazgo Técnico",
-        "Tecnología en Construcción"
-      ]
-  [languages.fr]
-    contentDir = "content/fr"
-    languageName = "Français"
-    weight = 3
-    [languages.fr.params]
-      tagline = "Ingénieur. Codeur. Résolveur de problèmes."
-      hero_description = "Ingénieur structure, IA et développeur full stack avec plus de 14 ans d'expérience en architecture, ingénierie et construction (AEC). Développement de solutions de sécurité et conformité pour agents IA basés sur LLM."
-      hero_location = "Montréal, Canada"
-      resume_url = "/files/Felipe_Cordero_CV_French_version.pdf"
-      collab_tags = [
-        "Solutions IA/ML",
-        "Logiciels d'ingénierie",
-        "R&D et Innovation",
-        "Leadership technique",
-        "Technologie de construction"
-      ]
+
 
 [build]
   writeStats = true
 
 [params]
-name = "Felipe Cordero"
-firstName = "Felipe"
-lastName = "Cordero"
-email = "mail@felipecordero.com"
-profile_image = "/images/felipe-cordero-profile.jpg"
-author = "Felipe Cordero"
+name = "Will MacIsaac"
+firstName = "Will"
+lastName = "MacIsaac"
+email = "willm.03COYI@gmail.com"
+profile_image = "/images/wirr.jpg"
+author = "Will MacIsaac"
 
 og_image = "images/felipecordero-og.png"
 
-description = "Structural Engineer, AI and Full Stack Developer. Building security and compliance solutions for LLM-based AI agents at Fireraven."
+description = "Intermediate Data Analyst. Furthering my education at Eastern College"
 
 linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
 linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
@@ -79,7 +43,7 @@ github_text = "github.com/felipecordero"
 calendly_url = "https://calendly.com/mail-felipecordero/30min"
 calendly_height = "700px"
 
-copyright = "Felipe Cordero"
+copyright = "Will MacIsaac"
 
 
 resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
@@ -123,43 +87,43 @@ sectionPagesMenu = 'main'
 [params.color_palettes]
   [[params.color_palettes.palette]]
     name = "professional"
-    main_color = "#474A51"    # Graphite Gray – ultra professional, metallic, predominant
+    main_color = "#637ebd"    # Graphite Gray – ultra professional, metallic, predominant
     second_color = "#E52521"  # Mario Red – subtle accent, inspired by Super Mario
     third_color = "#3CB043"   # Luigi Green – subtle accent, inspired by Luigi
   
   [[params.color_palettes.palette]]
     name = "ocean"
-    main_color = "#1E40AF"    # Vibrant Blue – energetic and modern
+    main_color = "#bfceff"    # Vibrant Blue – energetic and modern
     second_color = "#06B6D4"  # Cyan – fresh and innovative
     third_color = "#10B981"   # Emerald – growth and success
   
   # [[params.color_palettes.palette]]
   #   name = "sunset"
-  #   main_color = "#DC2626"    # Vibrant Red – warm and energetic
+  #   main_color = "#ffc4c4"    # Vibrant Red – warm and energetic
   #   second_color = "#F59E0B"  # Amber – optimistic and bright
   #   third_color = "#EF4444"   # Red Orange – passion and creativity
   # 
   # [[params.color_palettes.palette]]
   #   name = "forest"
-  #   main_color = "#059669"    # Deep Emerald – natural and stable
+  #   main_color = "#76ffd4"    # Deep Emerald – natural and stable
   #   second_color = "#10B981"  # Green – growth and success
   #   third_color = "#F59E0B"   # Golden Yellow – wisdom and clarity
   # 
   # [[params.color_palettes.palette]]
   #   name = "fire"
-  #   main_color = "#EA580C"    # Orange – creativity and enthusiasm
+  #   main_color = "#ffae82"    # Orange – creativity and enthusiasm
   #   second_color = "#DC2626"  # Red – passion and energy
   #   third_color = "#F59E0B"   # Amber – warmth and optimism
   
   [[params.color_palettes.palette]]
     name = "steel"
-    main_color = "#374151"    # Steel Gray – industrial and reliable
+    main_color = "#0b0f16"    # Steel Gray – industrial and reliable
     second_color = "#6B7280"  # Medium Gray – balanced and professional
     third_color = "#10B981"   # Emerald – success and precision
   
   [[params.color_palettes.palette]]
     name = "navy"
-    main_color = "#1E3A8A"    # Navy Blue – authoritative and trustworthy
+    main_color = "#091025"    # Navy Blue – authoritative and trustworthy
     second_color = "#3B82F6"  # Bright Blue – innovation and clarity
     third_color = "#F59E0B"   # Amber – excellence and achievement
   
