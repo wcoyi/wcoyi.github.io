@@ -3,13 +3,12 @@ title: "Ethical Analysis of Surveys"
 date: 2026-02-18
 draft: false
 description: "Making an in-depth analysis of a basic survey, taking note of possible ethical problems of the contents of the survey. Reflecting on our own hypothesis, furthermore making ideal adjustments to the survey whether a hypothetical superior confirms this or not."
-featured_image: "/images/blog/scholarship_letter.jpg"
+featured_image: "/images/blog/feedback_graphic.jpg"
 tags: ["data-analysis", "survey", "ethics"]
 ---
 
 Receiving recognition for academic excellence from Air Canada during my graduation from the Artificial Intelligence and Machine Learning program at Collège LaSalle, Montréal has been an unforgettable and deeply emotional moment. This achievement represents not just academic success, but a testament to faith, family support, and perseverance.
 
-{{< figure src="/images/beca_lasalle/scholarship_letter.jpg" alt="Recognition Letter" width="400" caption="The recognition letter from Air Canada - A testament to hard work and dedication" >}}
 
 
 ## The Journey
