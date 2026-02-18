@@ -119,7 +119,7 @@
     <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
       {{ range .Site.Menus.main }}
         
-        {{ if ne .Name "Tech Stack" }}
+        {{ if and (ne .Name "Tech Stack") (ne .Name "Experience") (ne .Name "Engineering") (ne .Name "Contributions") }}
 
         {{ if hasPrefix .URL "#" }}
           <a href="{{ printf "%s%s" $.Site.Home.RelPermalink .URL }}" class="nav-link section-link block px-3 py-2 rounded-md text-base font-medium text-text-primary dark:text-text-primary" data-section="{{ .URL }}">
