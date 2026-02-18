@@ -3,7 +3,7 @@ title: "Ethical Analysis of Surveys"
 date: 2026-02-18
 draft: false
 description: "Making an in-depth analysis of a basic survey, taking note of possible ethical problems of the contents of the survey. Reflecting on our own hypothesis, furthermore making ideal adjustments to the survey whether a hypothetical superior confirms this or not."
-featured_image: "/images/blog/feedback_graphic.jpg"
+featured_image: "/images/blog/survey"
 tags: ["data-analysis", "survey", "ethics"]
 ---
 
