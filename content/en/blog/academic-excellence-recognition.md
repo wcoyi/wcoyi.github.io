@@ -1,10 +1,10 @@
 ---
-title: "Academic Excellence Recognition: A Journey of Faith and Perseverance"
-date: 2025-05-18
+title: "Ethical Analysis of Surveys"
+date: 2026-02-18
 draft: false
-description: "Reflecting on receiving recognition for academic excellence from Air Canada during my graduation from the Artificial Intelligence and Machine Learning program at Collège LaSalle, Montréal."
+description: "Making an in-depth analysis of a basic survey, taking note of possible ethical problems of the contents of the survey. Reflecting on our own hypothesis, furthermore making ideal adjustments to the survey whether a hypothetical superior confirms this or not."
 featured_image: "/images/blog/scholarship_letter.jpg"
-tags: ["academic", "ai", "machine-learning", "education", "personal-journey"]
+tags: ["data-analysis", "survey", "ethics"]
 ---
 
 Receiving recognition for academic excellence from Air Canada during my graduation from the Artificial Intelligence and Machine Learning program at Collège LaSalle, Montréal has been an unforgettable and deeply emotional moment. This achievement represents not just academic success, but a testament to faith, family support, and perseverance.

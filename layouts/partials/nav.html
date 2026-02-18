@@ -8,7 +8,7 @@
         
         {{ range .Site.Menus.main }}
         
-          {{ if and (ne .Name "Tech Stack") (ne .Name "Experience") (ne .Name "Engineering") }}
+          {{ if and (ne .Name "Tech Stack") (ne .Name "Experience") (ne .Name "Engineering") (ne .Name "Contributions") }}
 
             {{ if .HasChildren }}
             <div class="relative group">
