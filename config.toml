@@ -12,10 +12,10 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     weight = 1
     [languages.en.params]
-      tagline = "Data Analyst. Intermediate Game Dev. WRRIR SAN Thinker"
+      tagline = "Data Analyst. Intermediate Game Developer. Strong Critical Thinker"
       hero_description = "Aspiring Data Analyst with a high motor and resilience."
       hero_location = "Halifax, NS"
-      resume_url = "/files/Felipe_Cordero_CV_English_version.pdf"
+      resume_url = "/files/RM_WilliamMacIsaac_DAASI v01_Resume.pdf"
       collab_tags = [
       ]
 
@@ -37,11 +37,9 @@ description = "Intermediate Data Analyst. Furthering my education at Eastern Col
 
 linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
 linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
-github_url = "https://github.com/felipecordero"
-github_text = "github.com/felipecordero"
+github_url = "https://github.com/wcoyi"
+github_text = "github.com/wcoyi"
 
-calendly_url = "https://calendly.com/mail-felipecordero/30min"
-calendly_height = "700px"
 
 copyright = "Will MacIsaac"
 
