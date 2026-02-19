@@ -35,8 +35,8 @@ og_image = "images/felipecordero-og.png"
 
 description = "Intermediate Data Analyst. Furthering my education at Eastern College"
 
-linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
-linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
+linkedin_url = "https://www.linkedin.com/in/wcoyi"
+linkedin_text = "linkedin.com/in/wcoyi"
 github_url = "https://github.com/wcoyi"
 github_text = "github.com/wcoyi"
 
@@ -44,7 +44,7 @@ github_text = "github.com/wcoyi"
 copyright = "Will MacIsaac"
 
 
-resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
+resume_url_en = "/files/RM_WilliamMacIsaac_DAASI_v01_Resume.pdf"
 resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
 resume_label = "View CV"
 
