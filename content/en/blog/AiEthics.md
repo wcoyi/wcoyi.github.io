@@ -25,7 +25,20 @@ This will indirectly serve some ethical issues to the other survey. This tackles
 
 ## Ethics in Data Science
 
-If we reflect on this example, we find there are several guidlines that exist that users should meet to ensure ethical balance in the field of technology. We must first determine the difference between ethical concepts to recognize where a certain scenario falls short.  For instance, if we take a closer look into a court of law where a trial is taking place. The members of trial are all subject to fairness, firstly. This is to encourage procedural fairness in giving each party a voice during the trial. With only fairness however, certain cases can be swept under the rug. Additionally, certain members of the court can be influenced some way by an outside force. To combat these issues, a court must also include transparency for all people to achieve a just trial. Transparency is  normally reached in the justice system by making the legal proceedings open and accessible to the public. Using this example of a trial in a court, we can extrapolate to our example in the previous section regarding the survey. The use of saved data by a potential third-party organization is not disclosed if one decides to fill in the survey. Furthermore, what said organization is doing with the data would likely not be known. They could sell this data to other organizations, or malicious actors in a worst-case scenario. This is a real problem in the 
+If we reflect on this example, we find there are several guidlines that exist that users should meet to ensure ethical balance in the field of technology. We must first determine the difference between ethical concepts to recognize where a certain scenario falls short.  For instance, if we take a closer look into a court of law where a trial is taking place. The members of trial are all subject to fairness, firstly. This is to encourage procedural fairness in giving each party a voice during the trial. With only fairness however, certain cases can be swept under the rug. Additionally, certain members of the court can be influenced some way by an outside force. To combat these issues, a court must also include transparency for all people to achieve a just trial. Transparency is  normally reached in the justice system by making the legal proceedings open and accessible to the public. Using this example of a trial in a court, we can extrapolate to our example in the previous section regarding the survey. The use of saved data by a potential third-party organization is not disclosed if one decides to fill in the survey. Furthermore, what said organization is doing with the data would likely not be known. They could sell this data to other organizations, or malicious actors in a worst-case scenario. This is a pressing issue in the big tech sector, where in 2018, Facebook and Meta was exposed for harvesting millions of users' data wihtout their consent through a quiz, which was discovered by Cambridge Analytica in March of that year. This led to an outrage of users and a loss of 37 billion market value in Facebooks stock. If we analyze the fairness of this scenario, one can theoretically make a mental-gymnastics arguement in consent through signing up for the website itself. The problem with with arguement is that those who were taking the quiz did in fact provide consent. There were questions present on the quiz that received data for the friends of users, which resulted in the FTC penalizing Facebook in unclear and accurate consent methods. 
+
+
+## Why Should We Care?
+
+
+If we do some reflecting on the aforementioned scenarios, one has to think: "if it's basically out of one's control, and we are financially neutral to this issue, why do we care?". The answer to this is quite simple, look back to future generations, as far back as you can think. The 1960s for example. This is an era of social and moral liberation. However in the 1940s-1950s particularily in the U.S, we see a time period very focused on the financial properity of the country rather than social issues at large. One could say things went backwards in this regard as in the first post-war period in the 1920s and 30s, the battle for womens rights made a great step forward for the country and world.  If we look now at Gen Z
+
+
+
+
+
+
+
 
 
 ## The Support System
