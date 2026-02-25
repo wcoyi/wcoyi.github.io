@@ -13,7 +13,7 @@ defaultContentLanguageInSubdir = false
     weight = 1
     [languages.en.params]
       tagline = "Data Analyst. Intermediate Game Developer. Strong Critical Thinker"
-      hero_description = "Aspiring Data Analyst with a high motor and resilience."
+      hero_description = "Aspiring Data Analyst with a high motor who always searches for a better solution. Experienced with PyQt5 libraries and MySQL Database, with additional knowledge in advanced DB visualization software such as Tableau or Power BI "
       hero_location = "Halifax, NS"
       resume_url = "/files/RM_WilliamMacIsaac_DAASI v01_Resume.pdf"
       collab_tags = [
@@ -45,7 +45,6 @@ copyright = "Will MacIsaac"
 
 
 resume_url_en = "/files/RM_WilliamMacIsaac_DAASI_v01_Resume.pdf"
-resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
 resume_label = "View CV"
 
 # Form and Pexels: set in config or config.local.toml. CI: HUGO_PARAMS_FORMSPREEENDPOINT, HUGO_PARAMS_PEXELSAPIKEY (no underscores)
