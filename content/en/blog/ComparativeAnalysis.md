@@ -11,7 +11,7 @@ tags: ["data-analysis", "survey", "ethics", "countries"]
 ## Our Current Global State & History
 
 
-{{< figure src="/images/blog/survey2.jpg" alt="Survey" width="400" caption="Class Survey" >}}
+{{< figure src="/images/blog/windows95.jpg" alt="windows" width="600" caption="Launch day of Microsoft Windows 95" >}}
 
 Think of where the world sits currently, Big Data surging, incredible medical breakthroughs every year, continuation of social and geopolitical justice. Now, in 2026, we have supposed access to instant information at our fingertips whenever and wherever we want, in a personalized configuration through the implementation of Artifical Intelligence. Through endless training and data mining AI is experiencing an exponential trend of explosive advancement with the world struggling to keep up with it, scrambling to understand the moral and ethical implications of this ever-growing technology. Let's scale this entire conversation back a bit, on July 14, 1995, Microsoft released the first consumer-oriented operating system, without the dependent foundation of the MS-DOS framework, Windows 95. This completely broke down the wall of technological possibility, as with previous installations of Windows the user was presented with a graphical shell essentially layed over the MS-DOS operating system, omitting Windows NT. The release of Windows 95 was a major catalyst in the progression of the internet also, as whilst it did not allow for TCP/IP at its launch it did provide key trailblazing network features such as DHCPP and dial-up networking through then popular services like AOL.
 
