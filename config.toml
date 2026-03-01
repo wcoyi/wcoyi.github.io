@@ -13,7 +13,7 @@ defaultContentLanguageInSubdir = false
     weight = 1
     [languages.en.params]
       tagline = "Data Analyst. Intermediate Game Developer. Strong Critical Thinker"
-      hero_description = "Aspiring Data Analyst with a high motor who always searches for a better solution. Experienced with PyQt5 libraries and MySQL Database, with additional knowledge in advanced DB visualization software such as Tableau or Power BI "
+      hero_description = "Aspiring Data Analyst with a high motor who always searches for a better solution. Experienced with PyQt5 libraries and MySQL Database, with additional knowledge in advanced DB visualization software such as Tableau and Power BI "
       hero_location = "Halifax, NS"
       resume_url = "/files/RM_WilliamMacIsaac_DAASI v01_Resume.pdf"
       collab_tags = [
@@ -24,12 +24,12 @@ defaultContentLanguageInSubdir = false
   writeStats = true
 
 [params]
-name = "Will MacIsaac"
-firstName = "Will"
+name = "William MacIsaac"
+firstName = "William"
 lastName = "MacIsaac"
 email = "willm.03COYI@gmail.com"
 profile_image = "/images/william.jpg"
-author = "Will MacIsaac"
+author = "William MacIsaac"
 
 og_image = "images/felipecordero-og.png"
 
@@ -41,7 +41,7 @@ github_url = "https://github.com/wcoyi"
 github_text = "github.com/wcoyi"
 
 
-copyright = "Will MacIsaac"
+copyright = "William MacIsaac"
 
 
 resume_url_en = "/files/RM_WilliamMacIsaac_DAASI_v01_Resume.pdf"
