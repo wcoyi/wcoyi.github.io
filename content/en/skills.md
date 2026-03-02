@@ -25,6 +25,6 @@ domains:
 
   - icon: "hands-helping"
     title: "Collaborative Working"
-    description: "Active in work amongst team-based freightforwarding in the Airport cargo field. Picked up many important soft skills from this position such as comprehensive teamwork, puncuality, resilience, and leadership. Responsible for training new hires for the position so it provided experience in dealing with distinct learning styles and personalities."
+    description: "Active in work amongst team-based freightforwarding in the Airport cargo field. Picked up many important soft skills from this position such as comprehensive teamwork, punctuality, resilience, and leadership. Responsible for training new hires for the position so it provided experience in dealing with distinct learning styles and personalities."
     devicon_class: "devicon-javascript-plain colored"
 ---
