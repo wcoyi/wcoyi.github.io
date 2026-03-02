@@ -13,7 +13,7 @@ passion_text: >-
   I'm Truly Passionate about making data most accessible to the general population, removing bias and unethical manipulation of data is something I sincerely care about. I'm Always committed to improving the data landscape for the better as well as my skillset as an analyst. 
 
 mix: >-
-  With minor experience in creating intiutive Python programs and SQL mock data manipulation, I'm extremely driven to apply my current skillset to new challenges when possible!
+  With minor experience in creating intuitive Python programs and SQL mock data manipulation, I'm extremely driven to apply my current skillset to new challenges when possible!
 
 personal: >-
   Outside my craft I really enjoy staying in shape by training at the gym, and also playing chess online. Additionally I like listening to basically every genre of music and keeping my cognitive flexibility as sharp as I can by playing blitz time-control chess games online! Additionally I appreciate the time I have with my family and do activities with them as frequent as I can. 

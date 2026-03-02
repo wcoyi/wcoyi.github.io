@@ -7,7 +7,7 @@ intro: >-
 domains:
   - icon: "code"
     title: "Python Development"
-    description: "Building intiutive and original Python projects using several libraries (PYQt5, psutil, etc.) showcasing versatility under multiple use cases. Low resource weather application and file scanner using OOP and threading."
+    description: "Building intuitive and original Python projects using several libraries (PYQt5, psutil, etc.) showcasing versatility under multiple use cases. Low resource weather application and file scanner using OOP and threading."
     devicon_class: "devicon-python-plain colored"
 
 
