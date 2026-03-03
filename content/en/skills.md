@@ -33,6 +33,6 @@ domains:
 
   - icon: "chart-bar"
     title: "Data Visualization"
-    description: "Ability to efficiently transform and convey otherwise unorganized and unidentifiable data from a data source into an easily-digestible and intriuging Workbooks. Able to utilize many of Tableau's interactive and cutting-edge features, specifically advanced filters and conditional calculation using Tableau's logical functions."
+    description: "Ability to efficiently transform and convey otherwise unorganized and unidentifiable data from a data source into an easily-digestible and intriguing Workbooks. Able to utilize many of Tableau's interactive and cutting-edge features, specifically advanced filters and conditional calculation using Tableau's logical functions."
     devicon_class: "devicon-tableau-plain colored"
 ---
