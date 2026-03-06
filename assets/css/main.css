@@ -805,13 +805,13 @@
 
 
 .tech-skill-card:hover {
-  background-color: var(--color-bg-secondary); 
+  background-color: var(--color-bg-secondary) !important; 
   transition: all var(--hover-transition);
 }
 
 
 .dark .tech-skill-card:hover {
-  background-color: var(--color-gray-700); 
+  background-color: var(--color-gray-700) !important; 
 }
 
 
