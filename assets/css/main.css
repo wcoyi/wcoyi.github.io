@@ -804,20 +804,22 @@
 
 
 
-.tech-skill-card:hover {
+
+.skill-card:hover {
   background-color: var(--color-bg-secondary) !important; 
   transition: all var(--hover-transition);
 }
 
-
-.dark .tech-skill-card:hover {
+.dark .skill-card:hover {
   background-color: var(--color-gray-700) !important; 
 }
 
 
-.tech-skill-card:hover img,
-.tech-skill-card:hover .fas,
-.tech-skill-card:hover .devicon {
+.skill-card:hover svg,
+.skill-card:hover i,
+.skill-card:hover img,
+.skill-card:hover .fas {
   color: var(--color-primary-light) !important;
+  fill: var(--color-primary-light) !important; 
   filter: brightness(1.2); 
 }
