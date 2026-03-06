@@ -8,7 +8,8 @@ intro: >-
 study: >-
   Currently based in the Halifax area, I'm now working on multiple passion projects whilst studying in Eastern College's IT Data Analysis & AI program. I previously was enrolled in Dalhousie University's Bsc Kinesiology program, and decided to fulfill my skillset by switching to data analysis.
 
-  "/images/aboutPic.jpg"
+  <img src="/images/aboutPic.jpg" alt="Data Analysis" style="max-width: 100%; border-radius: 8px;">
+  
 
 
 passion_title: "What I'm passionate about"
