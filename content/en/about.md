@@ -8,6 +8,9 @@ intro: >-
 study: >-
   Currently based in the Halifax area, I'm now working on multiple passion projects whilst studying in Eastern College's IT Data Analysis & AI program. I previously was enrolled in Dalhousie University's Bsc Kinesiology program, and decided to fulfill my skillset by switching to data analysis.
 
+  "/images/aboutPic.jpg"
+
+
 passion_title: "What I'm passionate about"
 passion_text: >-
   I'm Truly Passionate about making data most accessible to the general population, removing bias and unethical manipulation of data is something I sincerely care about. I'm Always committed to improving the data landscape for the better as well as my skillset as an analyst. 
