@@ -35,4 +35,11 @@ domains:
     title: "Data Visualization"
     description: "Ability to efficiently transform and convey otherwise unorganized and unidentifiable data from a data source into an easily-digestible and intriguing Workbooks. Able to utilize many of Tableau's interactive and cutting-edge features, specifically advanced filters and conditional calculation using Tableau's logical functions."
     devicon_class: "devicon-tableau-plain colored"
+
+
+
+  - icon: "cloud"
+    title: "Cloud and Interactive Coding"
+    description: "Building and testing dynamic Python scripts within Jupyter and Google Colab environments. Adept at using these interactive workspaces to streamline the data analysis process, manage external libraries, and execute complex operations in isolated, low-resource cloud environments."
+    devicon_class: "devicon-tableau-plain colored"
 ---
