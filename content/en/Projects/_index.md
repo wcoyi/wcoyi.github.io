@@ -17,4 +17,4 @@ menu:
 
 * **Football Player Market Value Predictor:** An end-to-end regression project predicting professional football players' market values from a real-world 48k-record TransferMarkt dataset, adhering to the CRISP-DM framework across data cleaning, feature engineering and model development in Python. Compares Linear Regression, Random Forest, and XGBoost with Lasso-driven feature selection and cross-validated hyperparameter tuning. 
 
-* **Football Player Market Value Predictor:** An end-to-end regression project predicting professional football players' market values from a real-world 48k-record TransferMarkt dataset, adhering to the CRISP-DM framework across data cleaning, feature engineering and model development in Python. Compares Linear Regression, Random Forest, and XGBoost with Lasso-driven feature selection and cross-validated hyperparameter tuning. 
+
